@@ -1,0 +1,4 @@
+version=3
+
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/Sigil-$1\.tar\.gz/ \
+  https://github.com/user-none/Sigil/releases .*/v?(\d\S*)\.tar\.gz
