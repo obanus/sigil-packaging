@@ -1,0 +1,37 @@
+Source: sigil
+Section: text
+Priority: extra
+XSBC-Original-Maintainer: Richard Gibert <richard@gibert.ca>
+Maintainer: Olivier Banus <sunab@free.fr>
+Build-Depends: debhelper (>= 7.0.50~),
+ cdbs,
+ cmake (>=2.8.9), 
+ qt5-qmake,
+ qt5-default,
+ qtdeclarative5-dev,
+ libqt5xmlpatterns5-dev,
+ qtquick1-5-dev,
+ libqt5svg5,
+ libqt5svg5-dev,
+ qtbase5-dev,
+ qttools5-dev,
+ qttools5-dev-tools,
+ libqt5webkit5-dev,
+ qtlocation5-dev,
+ qtsensors5-dev,
+ libqt5webkit5-qmlwebkitplugin,
+ zlib1g-dev,
+ zlib-bin,
+ libboost-all-dev,
+ libxerces-c-dev,
+ libhunspell-dev,
+ libpcre3-dev
+Standards-Version: 3.9.1
+Homepage: http://code.google.com/p/sigil/
+
+Package: sigil
+Architecture: any
+Depends: ${shlibs:Depends},
+ ${misc:Depends}
+Description: epub editor
+ Sigil is an editor for ebooks in the epub format.

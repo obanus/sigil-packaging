@@ -1,0 +1,962 @@
+sigil (0.7.4+git20140414.510334ee-0ubuntu0~sunab~trusty1) trusty; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 14 Apr 2014 14:43:30 +0200
+
+sigil (0.7.2+git20130801.ddc4d3a4-0ubuntu0~sunab~raring1) raring; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Thu, 01 Aug 2013 21:46:35 +0200
+
+sigil (0.7.2+git20130428.e730e3b8-0ubuntu0~sunab~raring1) raring; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 28 Apr 2013 15:20:22 +0200
+
+sigil (0.7.1+git20130327.5c24300a-0ubuntu0~sunab~raring1) raring; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 27 Mar 2013 09:35:25 +0200
+
+sigil (0.7.1+git20130317.69a8f901-0ubuntu0~sunab~raring1) raring; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 17 Mar 2013 16:05:15 +0200
+
+sigil (0.7.1+git20130306.f45d50c3-0ubuntu0~sunab~raring1) raring; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 06 Mar 2013 16:51:47 +0200
+
+sigil (0.7.0+git20130301.9bf36c1c-0ubuntu0~sunab~raring1) raring; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 01 Mar 2013 21:02:21 +0200
+
+sigil (0.7.0+git20130226.b7e78bf4-0ubuntu0~sunab~raring1) raring; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 26 Feb 2013 21:19:53 +0200
+
+sigil (0.7.0-0ubuntu0~sunab~raring2) raring; urgency=low
+
+  * build against boost pcre hunspell xerces from repos instead of bundled 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 19 Feb 2013 00:41:35 +0200
+
+sigil (0.7.0-0ubuntu0~sunab~raring2) raring; urgency=low
+
+  * build against boost pcre hunspell xerces from repos instead of bundled 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 19 Feb 2013 00:35:31 +0200
+
+sigil (0.7.0-0ubuntu0~sunab~raring2) raring; urgency=low
+
+  * build against boost pcre hunspell xerces from repos instead of bundled 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 19 Feb 2013 00:31:13 +0200
+
+sigil (0.7.0-0ubuntu0~sunab~raring2) raring; urgency=low
+
+  * build against boost pcre hunspell xerces from repos instead of bundled 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 19 Feb 2013 00:26:57 +0200
+
+sigil (0.7.0-0ubuntu0~sunab~raring2) raring; urgency=low
+
+  * build against boost pcre hunspell xerces from repos instead of bundled 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 19 Feb 2013 00:23:13 +0200
+
+sigil (0.7.0-0ubuntu0~sunab~raring2) raring; urgency=low
+
+  * build against boost pcre hunspell xerces from repos instead of bundled 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 19 Feb 2013 00:21:45 +0200
+
+sigil (0.7.0-0ubuntu0~sunab~raring2) raring; urgency=low
+
+  * build against boost pcre hunspell xerces from repos instead of bundled 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 19 Feb 2013 00:20:49 +0200
+
+sigil (0.7.0-0ubuntu0~sunab~raring2) raring; urgency=low
+
+  * build against boost pcre hunspell xerces from repos instead of bundled 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 19 Feb 2013 00:19:33 +0200
+
+sigil (0.7.0-0ubuntu0~sunab~raring2) raring; urgency=low
+
+  * build against boost pcre hunspell xerces from repos instead of bundled 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 19 Feb 2013 00:16:34 +0200
+
+sigil (0.7.0-0ubuntu0~sunab~raring2) raring; urgency=low
+
+  * build against boost pcre hunspell xerces from repos instead of bundled 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 19 Feb 2013 00:12:59 +0200
+
+sigil (0.7.0-0ubuntu0~sunab~raring1) raring; urgency=low
+
+  * new upstream release 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 17 Feb 2013 19:35:24 +0200
+
+sigil (0.7.0-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new upstream release 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 17 Feb 2013 19:09:47 +0200
+
+sigil (0.6.902+git20130216.7042f8fc-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sat, 16 Feb 2013 11:11:51 +0200
+
+sigil (0.6.902+git20130211.643282f1-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 11 Feb 2013 17:32:33 +0200
+
+sigil (0.6.901+git20130208.3d71b6a7-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 08 Feb 2013 02:00:25 +0200
+
+sigil (0.6.901+git20130206.318ac45e-0ubuntu0~sunab~quantal2) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 06 Feb 2013 18:40:12 +0200
+
+sigil (0.6.901+git20130206.318ac45e-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 06 Feb 2013 15:45:41 +0200
+
+sigil (0.6.2+git20130201.835bc936-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 01 Feb 2013 01:00:41 +0200
+
+sigil (0.6.2+git20130131.249a7cac-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Thu, 31 Jan 2013 09:51:27 +0200
+
+sigil (0.6.2+git20130127.f8875e4e-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 27 Jan 2013 15:17:34 +0200
+
+sigil (0.6.2+git20130126.738eb2c8-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sat, 26 Jan 2013 09:30:00 +0200
+
+sigil (0.6.2+git20130125.c63a3f03-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 25 Jan 2013 10:47:04 +0200
+
+sigil (0.6.2+git20130121.1d26c4be-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 21 Jan 2013 21:34:28 +0200
+
+sigil (0.6.2+git20130117.b448155c-0ubuntu0~sunab~quantal4) quantal; urgency=low
+
+  * debian/control add libqt5svg5 to Build-Depends
+
+ -- Olivier Banus <sunab@free.fr>  Sat, 19 Jan 2013 07:09:23 +0200
+
+sigil (0.6.2+git20130117.b448155c-0ubuntu0~sunab~quantal3) quantal; urgency=low
+
+  * debian/control add qttools5-dev-tools to Build-Depends
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 18 Jan 2013 10:34:33 +0200
+
+sigil (0.6.2+git20130117.b448155c-0ubuntu0~sunab~quantal2) quantal; urgency=low
+
+  * debian/control add qtdeclarative5-dev to Build-Depends
+  * debian/control set cmake minimal version to 2.8.9
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 18 Jan 2013 10:34:33 +0200
+
+sigil (0.6.2+git20130117.b448155c-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Thu, 17 Jan 2013 20:10:41 +0200
+
+sigil (0.6.2+git20130105.3533bc7b-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sat, 05 Jan 2013 01:43:31 +0200
+
+sigil (0.6.2+git20121223.9d278c73-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 23 Dec 2012 18:15:31 +0200
+
+sigil (0.6.2+git20121218.b5dbe49e-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 18 Dec 2012 18:57:29 +0200
+
+sigil (0.6.2+git20121211.cb626971-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 11 Dec 2012 20:01:48 +0200
+
+sigil (0.6.2+git20121211.cb626971-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 11 Dec 2012 18:39:35 +0200
+
+sigil (0.6.1+git20121203.4cd713c8-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 03 Dec 2012 11:57:21 +0200
+
+sigil (0.6.0+git20121126.abba5359-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 26 Nov 2012 07:09:34 +0200
+
+sigil (0.6.0+git20121122.0bb58e64-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Thu, 22 Nov 2012 20:36:05 +0200
+
+sigil (0.6.0+git20121114.7c4d959c-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 14 Nov 2012 20:25:39 +0200
+
+sigil (0.6.0+git20121112.2ac7761f-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 12 Nov 2012 10:30:17 +0200
+
+sigil (0.6.0+git20121111.787ed426-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 11 Nov 2012 10:44:16 +0200
+
+sigil (0.6.0+git20121110.ab1b6adc-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sat, 10 Nov 2012 08:06:55 +0200
+
+sigil (0.6.0+git20121108.66970a93-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Thu, 08 Nov 2012 07:10:17 +0200
+
+sigil (0.6.0+git20121107.a326bb40-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 07 Nov 2012 09:26:48 +0200
+
+sigil (0.6.0+git20121106.c2125988-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 06 Nov 2012 07:44:52 +0200
+
+sigil (0.6.0+git20121105.85730cf7-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 05 Nov 2012 17:55:59 +0200
+
+sigil (0.6.0+git20121104.aada4e0e-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 04 Nov 2012 18:38:02 +0200
+
+sigil (0.6.0+git20121102.c6ab5053-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 02 Nov 2012 09:53:18 +0200
+
+sigil (0.6.0+git20121102.85fa4af2-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 02 Nov 2012 07:55:42 +0200
+
+sigil (0.6.0+git20121031.4d258679-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 31 Oct 2012 22:21:50 +0200
+
+sigil (0.6.0+git20121030.e64624d7-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 30 Oct 2012 19:52:39 +0200
+
+sigil (0.6.0+git20121029.260a7986-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 29 Oct 2012 21:13:38 +0200
+
+sigil (0.5.907+git20121027.8be37742-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sat, 27 Oct 2012 18:48:51 +0200
+
+sigil (0.5.907+git20121026.7b300cf2-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 26 Oct 2012 09:41:35 +0200
+
+sigil (0.5.907+git20121023.5fdb8c3e-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 23 Oct 2012 18:41:42 +0200
+
+sigil (0.5.907+git20121022.b8749232-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 22 Oct 2012 18:50:18 +0200
+
+sigil (0.5.907+git20121021.9b0909e0-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 21 Oct 2012 18:36:35 +0200
+
+sigil (0.5.907+git20121019.6e3e1f63-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 19 Oct 2012 12:00:42 +0200
+
+sigil (0.5.907+git20121017.566b6142-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 17 Oct 2012 16:41:52 +0200
+
+sigil (0.5.907+git20121016.2921fd10-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 16 Oct 2012 08:51:50 +0200
+
+sigil (0.5.907+git20121015.adbe35f2-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 15 Oct 2012 09:32:32 +0200
+
+sigil (0.5.906+git20121010.89703074-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 10 Oct 2012 06:44:41 +0200
+
+sigil (0.5.906+git20121007.db44d2ca-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 07 Oct 2012 15:41:23 +0200
+
+sigil (0.5.906+git20121004.b4236424-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Thu, 04 Oct 2012 07:47:22 +0200
+
+sigil (0.5.906+git20121003.c02d63ef-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 03 Oct 2012 15:33:48 +0200
+
+sigil (0.5.906+git20121001.7ae74c96-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 01 Oct 2012 21:38:16 +0200
+
+sigil (0.5.905+git20120930.840132ad-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 30 Sep 2012 08:31:12 +0200
+
+sigil (0.5.905+git20120929.0dbdd99f-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sat, 29 Sep 2012 09:36:03 +0200
+
+sigil (0.5.905+git20120928.c62b1d76-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 28 Sep 2012 08:36:05 +0200
+
+sigil (0.5.905+git20120923.8cfbd8b8-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 23 Sep 2012 21:26:37 +0200
+
+sigil (0.5.905+git20120921.999a92e4-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 21 Sep 2012 13:01:34 +0200
+
+sigil (0.5.903+git20120920.47f88edc-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Thu, 20 Sep 2012 18:45:32 +0200
+
+sigil (0.5.903+git20120917.503b4827-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 17 Sep 2012 20:52:36 +0200
+
+sigil (0.5.903+git20120914.05bfa50d-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 14 Sep 2012 15:14:50 +0200
+
+sigil (0.5.903+git20120911.f15398d6-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 11 Sep 2012 18:15:17 +0200
+
+sigil (0.5.903+git20120907.764e5291-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 07 Sep 2012 21:19:49 +0200
+
+sigil (0.5.903+git20120904.ef7935e5-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 04 Sep 2012 16:54:42 +0200
+
+sigil (0.5.903+git20120903.a02930cb-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 03 Sep 2012 17:28:37 +0200
+
+sigil (0.5.903+git20120902.a02930cb-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 02 Sep 2012 22:10:24 +0200
+
+sigil (0.5.903+git20120902.db153d68-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 02 Sep 2012 10:31:11 +0200
+
+sigil (0.5.903+git20120831.79f88442-0ubuntu0~sunab~quantal1) quantal; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 31 Aug 2012 20:34:28 +0200
+
+sigil (0.5.902+git20120829.70b9edbf-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 29 Aug 2012 16:04:21 +0200
+
+sigil (0.5.902+git20120825.ba04af42-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sat, 25 Aug 2012 22:18:49 +0200
+
+sigil (0.5.902+git20120817.1584311b-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 17 Aug 2012 08:57:13 +0200
+
+sigil (0.5.902+git20120815.e75929bf-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 15 Aug 2012 07:59:58 +0200
+
+sigil (0.5.902+git20120808.ad2201c9-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 08 Aug 2012 18:44:26 +0200
+
+sigil (0.5.902+git20120701.1001ddb4-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 01 Jul 2012 17:36:43 +0200
+
+sigil (0.5.902+git20120621.2fdc81fc-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Thu, 21 Jun 2012 19:02:49 +0200
+
+sigil (0.5.901+git20120613.6a06437d-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 13 Jun 2012 09:48:42 +0200
+
+sigil (0.5.901+git20120609.67fd1f1b-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sat, 09 Jun 2012 21:37:52 +0200
+
+sigil (0.5.901+git20120608.c3d24aa9-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 08 Jun 2012 02:14:18 +0200
+
+sigil (0.5.801+git20120606.a0db5cf1-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 06 Jun 2012 21:41:26 +0200
+
+sigil (0.5.801+git20120605.011a7504-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 05 Jun 2012 16:15:31 +0200
+
+sigil (0.5.801+git20120604.4dd7416e-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 04 Jun 2012 20:48:10 +0200
+
+sigil (0.5.801+git20120530.147e708c-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 30 May 2012 16:19:43 +0200
+
+sigil (0.5.801+git20120527.ecc422a9-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 27 May 2012 23:32:40 +0200
+
+sigil (0.5.801+git20120513.29199458-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 13 May 2012 19:19:58 +0200
+
+sigil (0.5.801+git20120510.cb99b6ae-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Thu, 10 May 2012 21:45:21 +0200
+
+sigil (0.5.801+git20120508.669065b5-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 08 May 2012 08:54:26 +0200
+
+sigil (0.5.801+git20120504.7bdc5baf-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 04 May 2012 10:36:58 +0200
+
+sigil (0.5.801+git20120503.a8414064-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Thu, 03 May 2012 08:01:45 +0200
+
+sigil (0.5.801+git20120430.615b98d4-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 30 Apr 2012 14:12:14 +0200
+
+sigil (0.5.801+git20120423.f60dcd40-0ubuntu0~sunab~precise4) precise; urgency=low
+
+  * add zlib1g-dev to build-dep
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 29 Apr 2012 10:54:34 +0200
+
+sigil (0.5.801+git20120423.f60dcd40-0ubuntu0~sunab~precise3) precise; urgency=low
+
+  * dos2unix all source tree
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 23 Apr 2012 14:29:11 +0200
+
+sigil (0.5.801+git20120423.f60dcd40-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 23 Apr 2012 11:22:01 +0200
+
+sigil (0.5.3+git20120420.8ee7fe08-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 20 Apr 2012 10:01:20 +0200
+
+sigil (0.5.3+git20120418.26182062-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 18 Apr 2012 08:46:07 +0200
+
+sigil (0.5.3+git20120417.6208980b-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 17 Apr 2012 16:53:10 +0200
+
+sigil (0.5.3+git20120410.6a614a0a-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 10 Apr 2012 09:06:50 +0200
+
+sigil (0.5.3+git20120409.8e7ae31d-0ubuntu0~sunab~precise1) precise; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 09 Apr 2012 08:08:32 +0200
+
+sigil (0.5.3+git20120407.7e19fee5-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sat, 07 Apr 2012 10:53:42 +0200
+
+sigil (0.5.3+git20120402.29f3708a-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 02 Apr 2012 09:47:02 +0200
+
+sigil (0.5.3+git20120329.0e6abce8-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Thu, 29 Mar 2012 15:48:59 +0200
+
+sigil (0.5.3+git20120328.b39e0f8f-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 28 Mar 2012 09:43:48 +0200
+
+sigil (0.5.3+git20120315.e5571937-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Thu, 15 Mar 2012 07:14:20 +0200
+
+sigil (0.5.3+git20120229.de2c8bca-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 29 Feb 2012 14:08:27 +0200
+
+sigil (0.5.2+git20120217.d8e299e3-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 17 Feb 2012 09:59:03 +0200
+
+sigil (0.5.2+git20120211.62d60f5c-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sat, 11 Feb 2012 20:35:34 +0200
+
+sigil (0.5.1+git20120208.d9fe6fdd-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 08 Feb 2012 19:19:14 +0200
+
+sigil (0.5.1+git20120206.2a4557c8-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 06 Feb 2012 20:32:15 +0200
+
+sigil (0.5.0+git20120202.af61ea7c-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Thu, 02 Feb 2012 09:47:11 +0200
+
+sigil (0.5.0+git20120129.f230615f-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 29 Jan 2012 20:19:14 +0200
+
+sigil (0.5.0+git20120127.1eb72dd3-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 27 Jan 2012 09:02:07 +0200
+
+sigil (0.5.0+git20120122.66716a53-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 22 Jan 2012 07:57:54 +0200
+
+sigil (0.4.905+git20120115.77463b48-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 15 Jan 2012 07:21:46 +0200
+
+sigil (0.4.905+git20120112.9a122e33-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Thu, 12 Jan 2012 08:41:47 +0200
+
+sigil (0.4.904+git20120105.c45ec308-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Thu, 05 Jan 2012 18:32:37 +0200
+
+sigil (0.4.904+git20120103.3d95c936-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 03 Jan 2012 09:46:36 +0200
+
+sigil (0.4.904+git20120101.ca618cef-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 01 Jan 2012 10:48:59 +0200
+
+sigil (0.4.903+git20111229.002f1bbe-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Thu, 29 Dec 2011 17:45:59 +0200
+
+sigil (0.4.903+git20111228.265fc6ff-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 28 Dec 2011 11:06:09 +0200
+
+sigil (0.4.903+git20111226.2964f491-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 26 Dec 2011 16:50:24 +0200
+
+sigil (0.4.903+git20111223.b4891227-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 23 Dec 2011 10:53:32 +0200
+
+sigil (0.4.903+git20111222.b898af27-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Thu, 22 Dec 2011 09:34:45 +0200
+
+sigil (0.4.903+git20111220.b91a2af8-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 20 Dec 2011 08:32:05 +0200
+
+sigil (0.4.902+git20111213.083f5144-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 13 Dec 2011 17:22:11 +0200
+
+sigil (0.4.807+git20111118.158762e1-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 18 Nov 2011 08:38:22 +0200
+
+sigil (0.4.807+git20111115.f574d41b-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Tue, 15 Nov 2011 17:43:41 +0200
+
+sigil (0.4.805+git20111113.71957a2c-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sun, 13 Nov 2011 09:37:06 +0200
+
+sigil (0.4.805+git20111111.1d642118-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 11 Nov 2011 19:16:40 +0200
+
+sigil (0.4.805+git20111109.b5556284-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Wed, 09 Nov 2011 22:24:21 +0200
+
+sigil (0.4.802+git20111031.5bd32075-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Mon, 31 Oct 2011 11:34:53 +0200
+
+sigil (0.4.802+git20111029.98bb5f5c-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sat, 29 Oct 2011 23:34:25 +0200
+
+sigil (0.4.802+git20111028.bfce4be8-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Fri, 28 Oct 2011 15:21:59 +0200
+
+sigil (0.4.802+git20111022.f2194691-0ubuntu0~sunab~oneiric1) oneiric; urgency=low
+
+  * new git checkout 
+
+ -- Olivier Banus <sunab@free.fr>  Sat, 22 Oct 2011 22:19:24 +0200
+
+sigil (0.4.2-0rg0~oneiric0) oneiric; urgency=low
+
+  * new version
+
+ -- Richard Gibert <richard@gibert.ca>  Sun, 04 Sep 2011 13:03:37 -0400
+
+sigil (0.3.2-0rg0) maverick; urgency=low
+
+  * new build
+
+ -- Richard Gibert <richard@gibert.ca>  Sat, 27 Nov 2010 13:54:00 -0500
+
+sigil (0.3.1-0rg2) maverick; urgency=low
+
+  * fix for more build failures
+
+ -- Richard Gibert <richard@gibert.ca>  Sun, 07 Nov 2010 18:48:37 -0500
+
+sigil (0.3.1-0rg1) maverick; urgency=low
+
+  * fix for build failure
+
+ -- Richard Gibert <richard@gibert.ca>  Sun, 07 Nov 2010 17:56:19 -0500
+
+sigil (0.3.1-0rg0) maverick; urgency=low
+
+  * new version
+
+ -- Richard Gibert <richard@gibert.ca>  Sun, 07 Nov 2010 17:20:20 -0500
+
+sigil (0.3.0-0rg0) maverick; urgency=low
+
+  * new version
+
+ -- Richard Gibert <richard@gibert.ca>  Sun, 07 Nov 2010 16:11:10 -0500
+
+sigil (0.3.0~rc2-0rg1) maverick; urgency=low
+
+  * new version
+  * add missing license details to copyright file
+
+ -- Richard Gibert <richard@gibert.ca>  Tue, 12 Oct 2010 20:51:41 -0400
+
+sigil (0.2.4-1ppa3) maverick; urgency=low
+
+  * remove unneeded dependency
+  * remove duplicate changelog file
+
+ -- Richard Gibert <richard@gibert.ca>  Fri, 01 Oct 2010 17:59:21 -0400
+
+sigil (0.2.4-1ppa2) maverick; urgency=low
+
+  * add desktop & icon file into the package
+
+ -- Richard Gibert <richard@gibert.ca>  Fri, 01 Oct 2010 00:38:01 -0400
+
+sigil (0.2.4-1ppa1) maverick; urgency=low
+
+  * Initial release
+
+ -- Richard Gibert <richard@gibert.ca>  Thu, 30 Sep 2010 00:37:16 -0400
