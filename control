@@ -4,7 +4,6 @@ Priority: extra
 XSBC-Original-Maintainer: Richard Gibert <richard@gibert.ca>
 Maintainer: Olivier Banus <sunab@free.fr>
 Build-Depends: debhelper (>= 9),
- cdbs,
  cmake (>=2.8.9), 
  qt5-qmake,
  qt5-default,
