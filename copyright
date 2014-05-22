@@ -1,10 +1,7 @@
-This work was packaged for Debian by:
-
-    Richard Gibert <richard@gibert.ca> on Wed, 29 Sep 2010 22:16:08 -0400
-
-It was downloaded from:
-
-    http://code.google.com/p/sigil/
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Sigil
+Upstream-Contact: John Schember <john@nachtimwald.com>
+Source: https://github.com/user-none/Sigil
 
 src/BoostParts/*
 Copyright:
