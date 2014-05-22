@@ -4,7 +4,7 @@ Upstream-Contact: John Schember <john@nachtimwald.com>
 Source: https://github.com/user-none/Sigil
 
 src/BoostParts/*
-Copyright:
+Copyright: 1999 John maddock
 License: Boost Software License 1.0
     Boost Software License - Version 1.0 - August 17th, 2003
     
@@ -32,32 +32,38 @@ License: Boost Software License 1.0
 
 
 src/Sigil/*
+Copyright: 2009-2012 Strahinja Markovic
+           2012-2013 Dave Heiland
+           2012-2013 Grant drake
+           2013-2014 John Schember
+License: GPL-3
+    The full text of the GPL is distributed as in
+    /usr/share/common-licenses/GPL-3 on Debian systems.
+
+
 src/XercesExtensions/*
-Upstream Author(s):
-    Strahinja Markovic
-Copyright: Copyright (C) 2009,2010 Strahinja Markovic
+Copyright: 2009-2010 Strahinja Markovic
 License: GPL-3
     The full text of the GPL is distributed as in
     /usr/share/common-licenses/GPL-3 on Debian systems.
 
 
 src/Xerces/*
+Copyright: look at src/Xerces/CREDITS
 License: Apache License 2.0
     The full text of the Apache License 2.0 is distributed at
     /usr/share/common-licenses/Apache-2.0 on Debian systems.
 
 
 src/ZipArchive/*
-Copyright:
-    Copyrighted 2000 - 2009 by Artpol Software - Tadeusz Dracz
+Copyright: 2000-2009 Artpol Software - Tadeusz Dracz
 License: GPL-2
     The full text of the GPL is distributed as in
     /usr/share/common-licenses/GPL-2 on Debian systems.
 
 
 src/tidyLib/*
-Copyright:
-
+Copyright: 2007-2009 (W3C) MIT, ERCIM, Keio University
 License:
     This software and documentation is provided "as is," and
     the copyright holders and contributing author(s) make no
@@ -89,9 +95,9 @@ License:
     acknowledgment is not required but would be appreciated.
 
 
-The Debian packaging is:
-
-    Copyright (C) 2010 Richard Gibert <richard@gibert.ca>
-    and is licensed under the GPL version 3,
-    the full text of the GPL is distributed as in
+debian/*
+Copyright: 2010 Richard Gibert
+           2013-2014 Olivier Banus
+License: GPL-3
+    The full text of the GPL is distributed as in
     /usr/share/common-licenses/GPL-3 on Debian systems.
