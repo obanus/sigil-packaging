@@ -1,0 +1,7 @@
+Sigil for Debian
+-------------------
+
+At this moment Sigil isn't packaged for Debian.
+This is an attempt to create a valid packaging based on initial work by Richard Gibert <richard@gibert.ca>
+
+ -- Olivier Banus <sunab@free.fr>  Thu, 22 May 2014 19:35:16 +0200
